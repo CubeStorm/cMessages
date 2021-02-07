@@ -1,0 +1,20 @@
+# Message list
+message:
+  - "Message 1"
+  - "Message 2"
+  - "Message 3"
+
+# Prefixes
+prefix:
+  main: "&8[&cArtMc.pl&8] &7"
+  shop: "&8[&cArtMc.pl&8] &7"
+  broadcast: "&8[&cArtMc.pl&8] &7"
+
+# Delay time in seconds
+time: 120
+
+# If u want to randomize sended messages
+random: false
+
+# On/Off messages
+state: true

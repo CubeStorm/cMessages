@@ -1,0 +1,11 @@
+name: cMessages
+version: 1.0
+author: CubeStorm
+main: pl.cubestorm.cMessages.Main
+api-version: 1.16
+commands:
+  cmsg:
+    description: Auto-messanger and pretty broadcast messages by CubeStorm
+    permission: cmsg.*
+    permission-message: "&8[&cArtMc.pl&8] &7Nie ma takiej komendy"
+    usage: /cmsg

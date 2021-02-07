@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cMessages:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cMessages_jar</output-path>
+    <root id="archive" name="cMessages.jar">
+      <element id="module-output" name="cMessages" />
+    </root>
+  </artifact>
+</component>
